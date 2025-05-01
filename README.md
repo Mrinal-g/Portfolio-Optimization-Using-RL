@@ -1,2 +1,2 @@
-# Portfolio-Optimization-Using-RL
+# Portfolio-Optimization
 FE 800 Project
